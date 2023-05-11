@@ -1,9 +1,11 @@
 First Part
+____________________
 Node js application
-To launch the app : 
+____________________________
 npm install =====> to install dependencies
+______________________________________________
 node app.js ======> to launch the app
-port : 3000
+________________________________________
 Localhost : http://localhost:3000
 _____________________________________________________
 get all product : (Get) http://localhost:3000/api/product
